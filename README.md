@@ -1,4 +1,3 @@
-# 📝 Project Proposal: Sentiment Classification of E-Commerce Product Reviews
 
 ## 🔹 1. Project Title
 **Sentiment Classification of E-Commerce Product Reviews Using Deep Sequential Models and Transformers**
